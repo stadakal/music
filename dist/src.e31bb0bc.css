@@ -1,12 +1,12 @@
 @font-face {
   font-family: RobotoCondensed;
-  src: url(roboto-condensed.light.6709adf4.ttf);
+  src: url(/roboto-condensed.light.6709adf4.ttf);
   font-weight: 800;
 }
 
 @font-face {
   font-family: EconomicaBold;
-  src: url(economica-bold.12a9e27d.ttf);
+  src: url(/economica-bold.12a9e27d.ttf);
 }
 
 body {
@@ -14,6 +14,7 @@ body {
   font-size: 20px;
   padding: 2.5%;
   font-family: 'RobotoCondensed';
+  background-image: url(/2.2c7fcc9e.png);
 }
 
 h1, h2, h3, h4, h5 {
@@ -57,3 +58,6 @@ h1, h2, h3, h4, h5 {
 }
 
 
+
+
+/*# sourceMappingURL=/src.e31bb0bc.css.map */
